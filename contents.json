@@ -5165,6 +5165,11 @@
       "category": "menu",
       "description": "Panels is a framework to easily add sliding panels to your application.",
       "homepage": "https://github.com/antoniocasero/Panels"
+    }, {
+      "title": "Arrows",
+      "category": "ui",
+      "description": "Arrows is an animated custom view to give feedback about your UI sliding panels.",
+      "homepage": "https://github.com/antoniocasero/Arrows"
     }
   ]
 }
